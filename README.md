@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Archana Pradhan</h1>
-<h3 align="center">A passionate from India</h3>
+<h3 align="center">A passionate Cloud Engineer from India</h3>
 
 - 🔭 I’m currently working on **Multi-Cloud Projects**
 
