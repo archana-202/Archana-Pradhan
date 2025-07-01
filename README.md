@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Multi-Cloud Projects**
 
-- 🌱 I’m currently learning **Multicloud & DevOps**
+- 🌱 I’m currently learning **Multicloud & DevOps **
 
 - 👨‍💻 All of my projects are available at [https://github.com/archana-202](https://github.com/archana-202)
 
